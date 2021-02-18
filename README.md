@@ -5,7 +5,7 @@
 
 ## My Tech Stack
 
-Apache, Bootstrap, CSS3, HTML5, JavaScript, jQuery, MySQL, PHP, Codeigniter PHP Framework
+Apache, Nginx, Bootstrap, CSS3, Sass, HTML5, JavaScript, jQuery, MySQL, PHP, Codeigniter Framework
 
 ## Contact me
 
