@@ -15,5 +15,5 @@ Apache, Bootstrap, CSS3, HTML5, JavaScript, jQuery, MySQL, PHP, Codeigniter PHP 
 
 ### Current projects 🚀
 
-[Merolico](https://merolico.app)
-[Medislove](https://medislove.com)
+- [Merolico](https://merolico.app)
+- [Medislove](https://medislove.com)
