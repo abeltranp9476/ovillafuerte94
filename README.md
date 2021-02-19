@@ -1,11 +1,11 @@
-<p><img src="https://github.com/ovillafuerte94/ovillafuerte94/blob/main/helloworld.jpeg" alt="Hello World"/></p>
-
 <h1 align="center">I'm Omar Villafuerte 👋</h1>
 <h3 align="center">Tech lover and web page developer in the Php programming language.</h3>
 
-## My Tech Stack
+### Tech stack
 
-Apache, Nginx, Bootstrap, CSS3, Sass, HTML5, JavaScript, jQuery, MySQL, PHP, Codeigniter Framework
+Click on this badge to see the technologies I use everyday.
+
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/ovillafuerte94/my-stack)
 
 ## Contact me
 
