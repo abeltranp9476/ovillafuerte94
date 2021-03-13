@@ -1,5 +1,6 @@
-<h1 align="center">I'm Omar Villafuerte 👋</h1>
-<h3 align="center">Tech lover and web page developer in the Php programming language.</h3>
+### Hi! I'm Omar Villafuerte 👋
+
+💻 Tech lover and web page developer in the Php programming language.
 
 ### Tech stack
 
@@ -7,7 +8,8 @@ Click on this badge to see the technologies I use everyday.
 
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/ovillafuerte94/my-stack)
 
-## Contact me
+## I'm @ovillafuerte94 in internet
+🔎 Finally, you can find me in:
 
 - [Facebook](https://www.facebook.com/ovillafuerte94)
 - [Twitter](https://twitter.com/ovillafuerte94)
