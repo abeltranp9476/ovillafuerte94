@@ -1,6 +1,6 @@
 ### Hi! I'm Omar Villafuerte 👋
 
-💻 Tech lover and web page developer in the Php programming language.
+Tech lover and web page developer in the Php programming language.
 
 ### Tech stack
 
