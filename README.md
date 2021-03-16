@@ -15,3 +15,5 @@ Click on this badge to see the technologies I use everyday.
 - [Twitter](https://twitter.com/ovillafuerte94)
 - [LinkedIn](https://www.linkedin.com/in/ovillafuerte94/)
 - [Telegram](https://t.me/ovillafuerte94)
+
+You can also find me on [Platzi](https://platzi.com/p/ovillafuerte94/)! 💚
