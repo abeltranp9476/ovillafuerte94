@@ -4,7 +4,7 @@ Tech lover and web page developer in the Php programming language.
 
 ## My Tech Stack
 
-<p align="center"><img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=ovillafuerte94" alt="ovillafuerte94" /></p>
+<p align="center"><img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=ovillafuerte94&branding=false" alt="ovillafuerte94" /></p>
 
 ## Contact me
 
