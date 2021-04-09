@@ -21,6 +21,10 @@ Tech lover and web page developer in the Php programming language.
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ovillafuerte94" height="20"
             width="20" /></a>
     &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://gitlab.com/ovillafuerte94" target="blank"><img 
+           align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg" alt="ovillafuerte94"
+           height="20" width="20" /></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://stackoverflow.com/users/5518832/omar-villafuerte" target="blank"><img
             align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="ovillafuerte94"
             height="20" width="20" /></a>
