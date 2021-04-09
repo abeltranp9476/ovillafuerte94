@@ -6,7 +6,7 @@ Tech lover and web page developer in the Php programming language.
 
 <p align="center"><img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=ovillafuerte94" alt="ovillafuerte94" /></p>
 
-🔎 Finally, you can find me in:
+## Contact me
 
 <p align="center">
     <a href="https://linkedin.com/in/ovillafuerte94" target="blank"><img align="center"
