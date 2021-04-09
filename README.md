@@ -2,11 +2,9 @@
 
 Tech lover and web page developer in the Php programming language.
 
-### Tech stack
+### My Tech Stack
 
-Click on this badge to see the technologies I use everyday.
-
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/ovillafuerte94/my-stack)
+<p align="center"><img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=ovillafuerte94" alt="ovillafuerte94" /></p>
 
 🔎 Finally, you can find me in:
 
@@ -47,3 +45,5 @@ Click on this badge to see the technologies I use everyday.
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/platzi.svg" alt="ovillafuerte94" height="20"
             width="20" /></a>
 </p>
+
+<p align="center"><a href="https://ovillafuerte94.github.io" target="blank"><strong>Visit my website</strong></a></p>
