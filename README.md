@@ -1,6 +1,6 @@
 ## I'm Omar Villafuerte 👋
 
-Tech lover and web page developer in the Php programming language.
+I am a web developer capable of creating a web presence from scratch. Expert in writing well-designed, testable and efficient code using current best practices in web development. I am always researching and learning about new technologies. I apply agile software development methodologies and tools like Git.
 
 ## My Tech Stack
 
@@ -57,7 +57,11 @@ Tech lover and web page developer in the Php programming language.
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/producthunt.svg" alt="ovillafuerte94" height="20"
             width="20" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://platzi.com/p/ovillafuerte94/" target="blank"><img align="center"
+  <a href="https://www.digitalocean.com/community/users/ovillafuerte94" target="blank"><img align="center"
+            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/digitalocean.svg" alt="ovillafuerte94" height="20"
+            width="20" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://platzi.com/p/ovillafuerte94/" target="blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/platzi.svg" alt="ovillafuerte94" height="20"
             width="20" /></a>
 </p>
