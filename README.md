@@ -33,6 +33,10 @@ Web developer capable of creating a web presence from scratch. Expert in writing
            align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postman.svg" alt="ovillafuerte94"
            height="20" width="20" /></a>
     &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.figma.com/@ovillafuerte94" target="blank"><img 
+           align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/figma.svg" alt="ovillafuerte94"
+           height="20" width="20" /></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://stackoverflow.com/cv/ovillafuerte94" target="blank"><img
             align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="ovillafuerte94"
             height="20" width="20" /></a>
