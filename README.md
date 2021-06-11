@@ -36,10 +36,6 @@ Web developer capable of creating a web presence from scratch. Expert in writing
     <a href="https://medium.com/@ovillafuerte94" target="_blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="ovillafuerte94" height="20"
             width="20" /></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://platzi.com/p/ovillafuerte94/" target="_blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/platzi.svg" alt="ovillafuerte94" height="20"
-            width="20" /></a>
 </p>
 
 <p align="center"><a href="https://ovillafuerte94.github.io" target="_blank"><strong>Visit my website</strong></a></p>
