@@ -31,6 +31,10 @@ Web developer capable of creating a web presence from scratch. Expert in writing
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codersrank.svg" alt="ovillafuerte94" height="20"
             width="20" /></a>
     &nbsp;&nbsp;&nbsp;&nbsp;
+     <a href="https://www.npmjs.com/~ovillafuerte94" target="blank"><img 
+           align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/npm.svg" alt="ovillafuerte94"
+           height="20" width="20" /></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://dev.to/ovillafuerte94" target="_blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ovillafuerte94" height="20"
             width="20" /></a>
