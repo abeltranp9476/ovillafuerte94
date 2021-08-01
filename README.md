@@ -2,12 +2,6 @@
 
 Self-taught web developer, capable of creating a web presence from scratch. Expert in writing well-designed, testable and efficient code using current best practices in web development. I am always researching and learning about new technologies. I apply agile software development methodologies and tools.
 
-## Skills Chart
-
-<p align="center"> 
-    <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=ovillafuerte94" alt="ovillafuerte94" /> 
-</p>
-
 ## Contact me
 
 <p align="center">
@@ -31,21 +25,9 @@ Self-taught web developer, capable of creating a web presence from scratch. Expe
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codersrank.svg" alt="ovillafuerte94" height="20"
             width="20" /></a>
     &nbsp;&nbsp;&nbsp;&nbsp;
-     <a href="https://www.npmjs.com/~ovillafuerte94" target="blank"><img 
-           align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/npm.svg" alt="ovillafuerte94"
-           height="20" width="20" /></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://dev.to/ovillafuerte94" target="_blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ovillafuerte94" height="20"
-            width="20" /></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://gitlab.com/ovillafuerte94" target="_blank"><img 
            align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg" alt="ovillafuerte94"
            height="20" width="20" /></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://medium.com/@ovillafuerte94" target="_blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="ovillafuerte94" height="20"
-            width="20" /></a>
 </p>
 
 <p align="center"><a href="https://ovillafuerte94.github.io" target="_blank"><strong>Visit my website</strong></a></p>
